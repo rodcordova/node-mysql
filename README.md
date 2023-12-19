@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://github.com/rodcordova/Deteccion-de-emociones/blob/master/images/portada.png"  height=300>
+<img src="https://github.com/rodcordova/node-mysql/blob/master/images/res-api.png"  height=300>
 </p>
 
 ## Proyecto Node - Mysql
